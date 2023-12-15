@@ -1,0 +1,6 @@
+.card {
+    display: flex;
+    width: 22rem;
+    align-items: center;
+    justify-content: center;
+}
